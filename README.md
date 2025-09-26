@@ -1,4 +1,4 @@
-🏨 AtliQ Grand Hospitality Analytics Project
+## AtliQ Grand Hospitality Analytics Project
 
 📌 Overview
 
