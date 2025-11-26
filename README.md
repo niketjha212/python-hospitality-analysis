@@ -1,4 +1,4 @@
-#🏨 AtliQ Grand — Hospitality Analytics Project
+# AtliQ Grand — Hospitality Analytics Project
 
 A Data-Driven Exploration of Hotel Performance, Revenue, and Guest Behavior
 
